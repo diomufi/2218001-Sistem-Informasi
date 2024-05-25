@@ -1,0 +1,77 @@
+@include('components.sidebar')
+
+{{asset ('Template/lib/jqvmap/jqvmap.min.css')}}
+
+Admin (Administrator)
+Admin memiliki akses penuh ke semua aspek sistem untuk mengelola data dan pengguna.
+
+Dashboard
+
+Overview
+Statistik situs
+Aktivitas terbaru
+Manajemen Pengguna
+
+Daftar Pengguna
+Tambah pengguna
+Edit pengguna
+Hapus pengguna
+Manajemen Data Kucing
+
+Daftar Kucing
+Tambah kucing
+Edit kucing
+Hapus kucing
+Manajemen Gejala
+
+Daftar Gejala
+Tambah gejala
+Edit gejala
+Hapus gejala
+Manajemen Penyakit
+
+Daftar Penyakit
+Tambah penyakit
+Edit penyakit
+Hapus penyakit
+Laporan
+
+Laporan Konsultasi
+Laporan Penyakit
+Laporan Pengguna
+Pengaturan
+
+Konfigurasi Sistem
+Keamanan Sistem
+Officer (Vet)
+Officer bertanggung jawab atas diagnosa dan pengelolaan kesehatan kucing.
+
+Dashboard
+
+Overview
+Notifikasi
+Konsultasi terbaru
+Input Konsultasi
+
+Form Konsultasi Baru
+Pencarian Data Kucing
+Riwayat Konsultasi
+
+Daftar Konsultasi
+Tampilan Detail
+Edit Hasil Konsultasi
+Database Penyakit dan Gejala
+
+Penyakit
+Lihat detail penyakit
+Gejala
+Lihat detail gejala
+Manajemen Data Kucing
+
+Daftar Kucing
+Lihat detail
+Update data kesehatan
+Pengaturan
+
+Profil Pengguna
+Ubah Password
